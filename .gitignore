@@ -54,6 +54,8 @@ build/
 *.tar.gz
 *.rar
 
+#Mac
+.DS_Store
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 >>>>>>> d3292f4be2d4ed618bfa60d365648e6e589feeee

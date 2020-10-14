@@ -1,4 +1,4 @@
-package com.algorithms.Algorithm.pactice;
+package Arraynstring;
 
 public class Urlify {
 
